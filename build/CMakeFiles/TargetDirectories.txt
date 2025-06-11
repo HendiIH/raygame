@@ -1,3 +1,0 @@
-/home/hih/Documents/project/cpp/raygame/build/CMakeFiles/raygame.dir
-/home/hih/Documents/project/cpp/raygame/build/CMakeFiles/edit_cache.dir
-/home/hih/Documents/project/cpp/raygame/build/CMakeFiles/rebuild_cache.dir

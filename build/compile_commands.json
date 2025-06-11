@@ -1,8 +1,0 @@
-[
-{
-  "directory": "/home/hih/Documents/project/cpp/raygame/build",
-  "command": "/usr/bin/c++   -O3 -DNDEBUG -o CMakeFiles/raygame.dir/main.cpp.o -c /home/hih/Documents/project/cpp/raygame/main.cpp",
-  "file": "/home/hih/Documents/project/cpp/raygame/main.cpp",
-  "output": "CMakeFiles/raygame.dir/main.cpp.o"
-}
-]
